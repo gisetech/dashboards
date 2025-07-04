@@ -2,6 +2,8 @@
 
 Este repositório contém dois pdfs de dashboards interativos criados no **Looker** do curso de Visualização de dados do Tic em trilhas.
 
+![Tela do dashboard no Looker](https://github.com/gisetech/dashboards/blob/main/dashboard_vendas.png)
+
 ## 📊 **Relatório de Análise de Canais do YouTube** 
 
 Análise de desempenho de canais do YouTube, com base em dados de inscritos, visualizações e categorias.
